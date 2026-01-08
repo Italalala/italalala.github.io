@@ -69,7 +69,6 @@
 #SpotlightImage{
     width:60%;
     margin:5% 0 5% 2%;
-    height:fit-content;
     border:2pt black solid;
 }
 #SpotlightDetails{
